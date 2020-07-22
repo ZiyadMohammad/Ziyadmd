@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1595394754 source:c:\users\sonar_000.lenovo-pc\desktop\lols\new folder\mai first\my first\main.c
+	<stdio.h>
+	<conio.h>
+	"header.h"
+
+1595393757 c:\users\sonar_000.lenovo-pc\desktop\lols\new folder\mai first\my first\header.h
+
+1595394285 source:c:\users\sonar_000.lenovo-pc\desktop\lols\new folder\mai first\my first\untitled1.c
+	<stdio.h>
+	"header.h"
+
+1595394741 source:c:\users\sonar_000.lenovo-pc\desktop\lols\new folder\mai first\my first\untitled2.c
+	<stdio.h>
+	"header.h"
+
